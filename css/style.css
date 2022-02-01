@@ -1,0 +1,95 @@
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.Anasafya{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(78, 146, 201);
+    padding: 10px 20px;
+    position:absolute;
+    margin-left: 700px;
+    margin-right: 670px;
+    margin-top: 10px;
+}
+.Anasafya:hover{
+    text-decoration:underline;
+    background-color: rgb(76, 141, 194);
+}
+
+.Hakkımızda{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(78, 146, 201);
+    padding: 10px 20px;
+    position:absolute;
+    margin-left: 820px;
+    margin-right: 670px;
+    margin-top: 10px;
+}
+.Hakkımızda:hover{
+    text-decoration:underline;
+    background-color: rgb(76, 141, 194);
+    
+}
+
+.Iletisim{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(78, 146, 201);
+    padding: 10px 20px;
+    position:absolute;
+    margin-left: 970px;
+    margin-right: 670px;
+    margin-top: 10px;
+}
+.Iletisim:hover{
+    text-decoration:underline;
+    background-color: rgb(76, 141, 194);
+    
+}
+
+.login{
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-left: 75%;
+    margin-right: 230px;
+    background-color: steelblue;
+    display: block;
+}
+
+.login:hover{
+    text-decoration:underline;
+    background-color: rgb(68, 125, 172);
+}
+
+.list h3{
+    font-size: 13px;
+}
+.list h3:hover{
+    text-decoration: underline;
+}
+
+ul{
+    border: 4px solid rgb(14, 126, 160);
+    border-width: 12px;
+    margin-right: 85%;
+}
+
+
+.iletisim p{
+    margin-left: 900px;
+}
+
+.list h1{
+    color:rgb(14, 126, 160) ;
+}
+.div_pages a{
+    color: red;
+    position: relative;
+    margin-left: 30px ;
+}
+
+.div_pages a:hover{
+    text-decoration: underline;
+}

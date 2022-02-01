@@ -1,0 +1,38 @@
+.list ul li a{
+    text-decoration: none;
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    padding: 15px;
+    border-right: 2px solid#ff0000;
+    
+}
+.list ul li{
+    
+    display: inline;
+    
+}
+.list ul{
+    
+    padding: 3px;
+    margin-top: -16px;
+    margin-left: -10px;
+    width: 100%;
+    position: fixed;
+    
+}
+a:hover{
+    background-color: rgb(85, 11, 11);
+}
+.list ul{
+    background-color: black;
+    
+}
+.empty{
+    display: inline-block;
+}
+
+.parag{
+    margin-top: 40px;
+    position: absolute;
+}
